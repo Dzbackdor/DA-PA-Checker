@@ -1,5 +1,7 @@
 git clone https://github.com/Dzbackdor/DA-PA-Checker.git
+
 cd DA-PA-Checker
+
 pip install -r requirements.txt
 
 (add file to location )
