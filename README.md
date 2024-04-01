@@ -8,7 +8,7 @@ pip install -r requirements.txt
 add your .txt file to the DA-PA-Checker folder
 
 run :
-python scandapa.py -scan [namefile.txt]
+python3 scandapa.py -scan [namefile.txt]
 
 testing on linux
 
