@@ -10,6 +10,6 @@ add your .txt file to the DA-PA-Checker folder
 run :
 python scandapa.py -scan [namefile.txt]
 
-testing on windows 11
+testing on linux
 
 thank
