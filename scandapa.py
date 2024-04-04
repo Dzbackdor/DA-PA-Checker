@@ -1,13 +1,11 @@
 
 import argparse
 import requests
-from bs4 import BeautifulSoup
 import json
 import sys
-
-
 from bs4 import BeautifulSoup
 from colorama import Fore,Back,init
+
 
 B = Fore.BLUE
 W = Fore.WHITE
